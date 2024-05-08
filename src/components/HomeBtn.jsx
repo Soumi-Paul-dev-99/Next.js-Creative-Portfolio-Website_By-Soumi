@@ -1,11 +1,16 @@
 "use client";
 import { Home } from "lucide-react";
+import { motion } from "framer-motion";
 import Link from "next/link";
 import React from "react";
 
+const NavLink = motion(Link);
 const HomeBtn = () => {
   return (
-    <Link
+    <NavLink
+      initial={{ scale: 0 }}
+      animate={{ scale: 1 }}
+      transition={{ delay: 1 }}
       href={"/"}
       target={"_self"}
       className="text-foreground rounded-full flex items-center justify-center custom-bg fixed top-4 left-4 w-fit self-start z-50"
@@ -19,7 +24,7 @@ const HomeBtn = () => {
       <span className="absolute hidden peer-hover:block px-2 py-1 left-full mx-2 top-1/2 translate-y-1/2 bg-background text-foreground text-sm rounded-md shadow-lg whitespace-nowrap">
         Home
       </span>
-    </Link>
+    </NavLink>
   );
 };
 
