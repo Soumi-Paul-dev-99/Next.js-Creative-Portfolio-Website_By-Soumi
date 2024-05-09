@@ -20,15 +20,15 @@ export default function Contact() {
       <article className="relative w-full flex flex-col items-center justify-center py-8 sm:py-0 space-y-8">
         <div className="flex flex-col items-center justify-center space-y-6 w-full sm:w-3/4">
           <h1 className="text-accent font-semibold text-center text-4xl capitalize">
-            Soumi the witch
+            Reach Out
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
-            Step into the circle of enchantment and weave your words into the
-            fabric of the cosmos. Whether you seek to conjure collaborations,
-            unlock mysteries, or simply share tales of adventure, your messages
-            are treasured scrolls within this realm. Use the form below to send
-            your missives through the ethereal network, and await the whisper of
-            magic in response.
+            Dive into the realm of connectivity and harness the power of code to
+            shape digital landscapes. Whether you're seeking to collaborate on
+            projects, troubleshoot challenges, or simply exchange ideas, your
+            messages are the keystrokes that propel us forward. Utilize the form
+            below to transmit your queries through the digital ether, and
+            anticipate the response of innovation.
           </p>
         </div>
         <Form />
