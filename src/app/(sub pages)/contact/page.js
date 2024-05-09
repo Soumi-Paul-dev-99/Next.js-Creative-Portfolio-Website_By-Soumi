@@ -28,7 +28,7 @@ export default function Contact() {
             projects, troubleshoot challenges, or simply exchange ideas, your
             messages are the keystrokes that propel us forward. Utilize the form
             below to transmit your queries through the digital ether, and
-            anticipate the response of innovation......
+            anticipate the response of innovation.
           </p>
         </div>
         <Form />
