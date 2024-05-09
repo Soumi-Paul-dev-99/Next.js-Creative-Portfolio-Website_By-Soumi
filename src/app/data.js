@@ -39,13 +39,14 @@ export const projectsData = [
     date: "2024-03-10",
     demoLink: "https://github.com/Soumi-Paul-dev-99/job-portal-backend.git",
   },
-  // {
-  //   id: 4,
-  //   name: "HealthBeat",
-  //   description: "Monitor heart rate zones",
-  //   date: "2022-05-30",
-  //   demoLink: "https://healthbeat.example.com",
-  // },
+  {
+    id: 4,
+    name: "ShopIQ",
+    description: "Advanced MERN E-commerce App + Fintech Digital Wallet",
+    date: "2022-05-30",
+    demoLink:
+      "https://github.com/Soumi-Paul-dev-99/Mern-Ecommerce-ShopIQ-Frontend.git",
+  },
   // {
   //   id: 5,
   //   name: "RecipeFinder",
