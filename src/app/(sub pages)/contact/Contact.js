@@ -20,8 +20,8 @@ export default function Contact() {
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
             Dive into the realm of connectivity and harness the power of code to
-            shape digital landscapes. Whether you're seeking to collaborate on
-            projects, troubleshoot challenges, or simply exchange ideas, your
+            shape digital landscapes. Whether you&apos;re seeking to collaborate
+            on projects, troubleshoot challenges, or simply exchange ideas, your
             messages are the keystrokes that propel us forward. Utilize the form
             below to transmit your queries through the digital ether, and
             anticipate the response of innovation......
