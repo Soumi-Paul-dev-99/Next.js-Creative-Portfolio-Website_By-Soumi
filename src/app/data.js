@@ -43,7 +43,7 @@ export const projectsData = [
     id: 4,
     name: "ShopIQ",
     description: "Advanced MERN E-commerce App + Fintech Digital Wallet",
-    date: "2022-05-30",
+    date: "2024-05-09",
     demoLink:
       "https://github.com/Soumi-Paul-dev-99/Mern-Ecommerce-ShopIQ-Frontend.git",
   },
