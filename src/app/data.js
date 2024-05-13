@@ -23,14 +23,14 @@ export const projectsData = [
     description:
       "MERN stack project focused on revolutionizing bank-client interaction",
     date: "2023-06-01",
-    demoLink: "https://www.guardianbankingsolutions.com/",
+    demoLink: "/",
   },
   {
     id: 2,
     name: "iRewardify",
     description: "MERN stack project aimed at revolutionizing gift-giving",
     date: "2024-01-01",
-    demoLink: "https://irewardify.com/",
+    demoLink: "/",
   },
   {
     id: 3,
